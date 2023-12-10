@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "homepage": "https://pr1206.github.io/portfolio/",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio!",
@@ -20,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/pr1206/portfolio/issues"
   },
-  "homepage": "https://pr1206.github.io/portfolio/",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
